@@ -9,7 +9,7 @@ public class Gimic_PitHall : MonoBehaviour
     [SerializeField] private bool OnFire = false;//ギミックに火が点いているか
     [SerializeField] public float BurnSpeed = 3.0f;
 
-    // Start is called before the first frame update
+    // Start is called before the first frame updat
     void Start()
     {
 
